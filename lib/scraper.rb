@@ -6,4 +6,5 @@ require 'open-uri'
 courses.each do |course|
   puts course.text.strip
 end
+end
  
